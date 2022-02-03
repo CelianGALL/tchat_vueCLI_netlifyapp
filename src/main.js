@@ -3,7 +3,7 @@ import axios from 'axios'
 import router from './router/index.js'
 import App from './App.vue'
 import store from './store'
-import {Outils} from './mixins/tools.js'
+import { Outils } from './mixins/tools.js'
 
 Vue.mixin(Outils);
 

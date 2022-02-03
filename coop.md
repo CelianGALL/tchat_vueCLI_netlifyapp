@@ -8,6 +8,8 @@ L'API est ici : [https://allweb.fun/coop/](https://allweb.fun/coop/)
 
 Pour obtenir un token d'autorisation, suivez ce lien : [https://allweb.fun/coop/key.php](https://allweb.fun/coop/key.php)
 
+Token API : `78f82a72e017cac77d925470742c28fb8919506d`
+
 > ⚠️ Les niveaux d'accès ne sont pas encore faits
 
 ### Accès réservé aux membres identifiés :
