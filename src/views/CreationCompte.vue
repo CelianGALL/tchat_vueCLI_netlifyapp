@@ -20,9 +20,9 @@
 export default {
   data() {
     return {
-      fullname: "letsgong",
-      email: "letsgong@gmail.com",
-      password: "99999",
+      fullname: "",
+      email: "",
+      password: "",
     };
   },
   methods: {
